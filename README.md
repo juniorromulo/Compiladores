@@ -1,1 +1,1 @@
-Um dos três trabalhos principais da disciplina é a construção de um compilador funcional para uma linguagem específica (similar ao C). O repositório contém a definição formal do trabalho, código na íntegra e vídeo explicativo.
+O principal trabalho da disciplina é a construção de um compilador funcional para uma linguagem específica (similar ao C). O repositório contém a definição formal do trabalho, código na íntegra e vídeo explicativo.

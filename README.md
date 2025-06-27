@@ -1,1 +1,1 @@
-O principal trabalho da disciplina é a construção de um compilador funcional para uma linguagem específica (similar ao C). O repositório contém a definição formal do trabalho, código na íntegra e vídeo explicativo.
+O principal trabalho da disciplina é a construção de um compilador funcional para uma linguagem específica (similar ao C). A parte específica disponível consiste no planejamento e implementação das etapas de análise léxica e sintática usando duas ferramentas: Flex e Yacc. O repositório contém a definição formal do trabalho, código na íntegra e vídeo explicativo.
